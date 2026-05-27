@@ -1,0 +1,13 @@
+{
+    "id": "AnimeTosho",
+    "name": "AnimeTosho",
+    "description": "AnimeTosho torrent provider with smart search. Uses AniDB ID mapping (arm-server) and episode-level ID resolution (zenshin API) for precise results.",
+    "manifestURI": "https://raw.githubusercontent.com/0utLunar/animetosho-provider/main/manifest.json",
+    "icon": "https://raw.githubusercontent.com/0utLunar/animetosho-provider/main/icon.png",
+    "version": "1.0.0",
+    "author": "0utLunar",
+    "type": "anime-torrent-provider",
+    "language": "typescript",
+    "lang": "multi",
+    "payloadURI": "https://raw.githubusercontent.com/0utLunar/animetosho-provider/main/animetosho.ts"
+}
